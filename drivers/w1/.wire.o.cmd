@@ -1,0 +1,1 @@
+cmd_drivers/w1/wire.o := /home/roy/android/android-ndk-r5c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-ld -EL    -r -o drivers/w1/wire.o drivers/w1/w1.o drivers/w1/w1_int.o drivers/w1/w1_family.o drivers/w1/w1_netlink.o drivers/w1/w1_io.o 

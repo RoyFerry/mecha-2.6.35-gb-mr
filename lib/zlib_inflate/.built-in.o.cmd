@@ -1,0 +1,1 @@
+cmd_lib/zlib_inflate/built-in.o :=  /home/roy/android/android-ndk-r5c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-ld -EL    -r -o lib/zlib_inflate/built-in.o lib/zlib_inflate/zlib_inflate.o 

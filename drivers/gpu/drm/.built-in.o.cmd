@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/built-in.o :=  /home/roy/android/android-ndk-r5c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-ld -EL    -r -o drivers/gpu/drm/built-in.o drivers/gpu/drm/i2c/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/w1/built-in.o :=  /home/roy/android/android-ndk-r5c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-ld -EL    -r -o drivers/w1/built-in.o drivers/w1/wire.o drivers/w1/masters/built-in.o drivers/w1/slaves/built-in.o 
