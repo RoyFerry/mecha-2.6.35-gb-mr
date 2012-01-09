@@ -1,1 +1,0 @@
-cmd_drivers/mfd/built-in.o :=  /home/roy/android/android-ndk-r5c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-ld -EL    -r -o drivers/mfd/built-in.o drivers/mfd/marimba-core.o drivers/mfd/marimba-codec.o drivers/mfd/mfd-core.o drivers/mfd/pm8058-core.o 

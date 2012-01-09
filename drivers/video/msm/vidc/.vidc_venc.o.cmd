@@ -1,1 +1,0 @@
-cmd_drivers/video/msm/vidc/vidc_venc.o := /home/roy/android/android-ndk-r5c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-ld -EL    -r -o drivers/video/msm/vidc/vidc_venc.o drivers/video/msm/vidc/common/enc/venc.o drivers/video/msm/vidc/common/enc/venc_internal.o 
